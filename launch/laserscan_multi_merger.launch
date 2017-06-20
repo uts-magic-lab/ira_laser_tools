@@ -9,7 +9,7 @@
             angle_max: 2.36
             angle_min: -2.36
             cloud_destination_topic: /merged_cloud
-            destination_frame: /base_footprint
+            destination_frame: base_footprint
             laserscan_topics: /scan /pepper/laser
             range_max: 4.0
             range_min: 0.2
